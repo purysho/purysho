@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-labelledby="title desc">
+<title id="title">Relay</title><desc id="desc">Local HTTP client, inspector, history browser and mock server.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10151B"/><stop offset="1" stop-color="#080B0F"/></linearGradient></defs>
+<rect width="400" height="300" rx="24" fill="url(#bg)" stroke="#202832"/>
+<text x="30" y="42" fill="#69B9FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2.8">HTTP TOOLING</text>
+<g transform="translate(303 84)">
+  <path d="M-58 -18 C-34 -45,-8 -50,18 -44" fill="none" stroke="#45A9FF" stroke-width="12" stroke-linecap="round"/>
+  <path d="M54 36 C30 60,4 66,-20 58" fill="none" stroke="#FF7357" stroke-width="12" stroke-linecap="round"/>
+  <path d="M-29 34 C-15 21,-1 15,15 15" fill="none" stroke="#45A9FF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M29 -18 C16 -4,3 2,-13 2" fill="none" stroke="#FF7357" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="0" cy="21" r="10" fill="#F1CF78"/>
+</g>
+<text x="30" y="119" fill="#F2EEE5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="650">Relay</text>
+<text x="30" y="159" fill="#98A1AD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Inspect what your software says on the wire.</text>
+<text x="30" y="205" fill="#6F7884" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Requests · responses · history · local mocks</text>
+<rect x="30" y="246" width="108" height="2" rx="1" fill="#45A9FF"/><rect x="148" y="246" width="72" height="2" rx="1" fill="#FF7357"/><rect x="230" y="246" width="30" height="2" rx="1" fill="#F1CF78"/><rect x="270" y="246" width="66" height="2" rx="1" fill="#20262E"/>
+<text x="339" y="253" fill="#69B9FF" font-family="Arial,sans-serif" font-size="22">↗</text>
+</svg>
