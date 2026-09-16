@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-labelledby="title desc">
+<title id="title">GitHub Treasure Hunt</title><desc id="desc">A client-side discovery tool for finding interesting open-source repositories.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111521"/><stop offset="1" stop-color="#080A10"/></linearGradient></defs>
+<rect width="400" height="300" rx="24" fill="url(#bg)" stroke="#222938"/>
+<text x="30" y="42" fill="#F1CF78" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2.8">DISCOVERY TOOL</text>
+<g transform="translate(309 82)">
+  <circle cx="0" cy="0" r="46" fill="none" stroke="#2B3344" stroke-width="2"/>
+  <circle cx="0" cy="0" r="30" fill="none" stroke="#2B3344" stroke-width="2"/>
+  <path d="M0 -52V52M-52 0H52" stroke="#2B3344" stroke-width="2"/>
+  <path d="M0 -35 8 -8 34 0 8 8 0 35 -8 8 -34 0 -8 -8Z" fill="#F1CF78"/>
+  <circle cx="0" cy="0" r="7" fill="#FFF0BE"/>
+</g>
+<text x="30" y="116" fill="#F2EEE5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="650">Treasure Hunt</text>
+<text x="30" y="158" fill="#98A1AD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Find open source worth wandering into.</text>
+<text x="30" y="205" fill="#6F7884" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">topics · filters · repository discovery</text>
+<rect x="30" y="246" width="130" height="2" rx="1" fill="#F1CF78"/><rect x="170" y="246" width="66" height="2" rx="1" fill="#79B4FF"/><rect x="246" y="246" width="90" height="2" rx="1" fill="#20262E"/>
+<text x="339" y="253" fill="#F1CF78" font-family="Arial,sans-serif" font-size="22">↗</text>
+</svg>
