@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-labelledby="title desc">
+<title id="title">Open Question Atlas</title><desc id="desc">A visual atlas for browsing unanswered questions across fields of knowledge.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#11131F"/><stop offset="1" stop-color="#080A10"/></linearGradient></defs>
+<rect width="400" height="300" rx="24" fill="url(#bg)" stroke="#222838"/>
+<text x="30" y="42" fill="#8F7CFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2.8">KNOWLEDGE MAP</text>
+<g transform="translate(307 82)">
+  <circle cx="0" cy="0" r="7" fill="#F1CF78"/>
+  <circle cx="-30" cy="-20" r="6" fill="#79B4FF"/>
+  <circle cx="28" cy="-27" r="6" fill="#8F7CFF"/>
+  <circle cx="36" cy="22" r="6" fill="#F1CF78"/>
+  <circle cx="-27" cy="31" r="6" fill="#79B4FF"/>
+  <path d="M-30 -20 0 0 28 -27M0 0 36 22M0 0-27 31M-30-20-27 31M28-27 36 22" fill="none" stroke="#56617B" stroke-width="2.2"/>
+  <circle cx="0" cy="0" r="40" fill="none" stroke="#2C3242" stroke-width="1.5" stroke-dasharray="3 7"/>
+</g>
+<text x="30" y="116" fill="#F2EEE5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="650">Open Question Atlas</text>
+<text x="30" y="158" fill="#98A1AD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Explore the questions knowledge hasn't closed.</text>
+<text x="30" y="205" fill="#6F7884" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">fields · questions · connected curiosity</text>
+<rect x="30" y="246" width="94" height="2" rx="1" fill="#8F7CFF"/><rect x="134" y="246" width="86" height="2" rx="1" fill="#79B4FF"/><rect x="230" y="246" width="30" height="2" rx="1" fill="#F1CF78"/><rect x="270" y="246" width="66" height="2" rx="1" fill="#20262E"/>
+<text x="339" y="253" fill="#8F7CFF" font-family="Arial,sans-serif" font-size="22">↗</text>
+</svg>
