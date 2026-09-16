@@ -13,6 +13,7 @@
   <strong>Public releases</strong>
 </p>
 
+<p align="center"><sub>UNDERSTAND</sub></p>
 <table>
 <tr>
 <td width="33.33%" valign="top">
@@ -23,6 +24,23 @@
 </td>
 <td width="33.33%" valign="top">
 <a href="https://github.com/purysho/PalisadeDB"><img src="assets/palisade-card.svg" width="100%" alt="PalisadeDB — a custom local database engine built from first principles" /></a>
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center"><sub>OPERATE</sub></p>
+<table>
+<tr>
+<td width="33.33%" valign="top">
+<a href="https://github.com/purysho/Relay"><img src="assets/relay-card.svg" width="100%" alt="Relay — local HTTP client, inspector, history browser and mock server" /></a>
+</td>
+<td width="33.33%" valign="top">
+<a href="https://github.com/purysho/Forge"><img src="assets/forge-card.svg" width="100%" alt="Forge — local workflow automation for commands, files and HTTP calls" /></a>
+</td>
+<td width="33.33%" valign="top">
+<a href="https://github.com/purysho/Pulse"><img src="assets/pulse-card.svg" width="100%" alt="Pulse — local process and network relationship monitor" /></a>
 </td>
 </tr>
 </table>
