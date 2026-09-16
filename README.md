@@ -1,103 +1,49 @@
-<div align="center">
-  <img src="assets/header.svg" width="100%" alt="Purysho — local-first tools, AI systems, and software experiments" />
-</div>
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="Purysho — focused software, clear purpose, built to be used" />
+</p>
+
+<p align="center">
+  <strong>I build focused software, local-first tools, developer utilities, and AI systems.</strong><br>
+  <sub>Most experiments stay private. What appears here is intentionally released for other people to inspect, use, or build on.</sub>
+</p>
 
 <br>
 
-<div align="center">
-  <strong>Independent builder making local-first software, developer tools, AI systems, and experiments.</strong><br>
-  <sub>Useful over ornamental. Deterministic where possible. AI where it earns its place.</sub>
-</div>
-
-<br>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-### `> system_profile`
-
-```text
-IDENTITY        PURYSHO
-FOCUS           local-first software · AI systems · developer utilities
-MODE            build → test → break → refine → ship
-PREFERENCE      small surface area · clear purpose · usable software
-```
-
-### `> selected_systems`
+<h2 align="center">Public releases</h2>
+<p align="center"><sub>Three small tools with very different jobs — all designed to be understandable, local, and useful.</sub></p>
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-#### [BLACKBOX](https://github.com/purysho/BLACKBOX)
-Repository forensics for structure, hotspots, dependencies, risks, and suspicious code patterns.
-
-`repo intelligence` `local-first`
-
+<td width="33.33%" valign="top">
+<a href="https://github.com/purysho/BLACKBOX"><img src="assets/blackbox-card.svg" width="100%" alt="BLACKBOX — repository intelligence" /></a>
 </td>
-<td width="33%" valign="top">
-
-#### [Needle](https://github.com/purysho/Needle)
-Private local file search for indexing, finding, browsing, and opening content across a computer.
-
-`search` `desktop` `privacy`
-
+<td width="33.33%" valign="top">
+<a href="https://github.com/purysho/Needle"><img src="assets/needle-card.svg" width="100%" alt="Needle — private local search" /></a>
 </td>
-<td width="33%" valign="top">
-
-#### [PalisadeDB](https://github.com/purysho/PalisadeDB)
-A custom local database engine with its own pager, B+ tree, SQL layer, and recovery machinery.
-
-`database internals` `systems`
-
+<td width="33.33%" valign="top">
+<a href="https://github.com/purysho/PalisadeDB"><img src="assets/palisade-card.svg" width="100%" alt="PalisadeDB — custom local database engine" /></a>
 </td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-#### [Threadline](https://github.com/purysho/threadline)
-Evidence-first personal intelligence built around commitments, temporal dependencies, contradictions, and deterministic briefing.
+<p align="center">
+  <img src="assets/principles.svg" width="100%" alt="How I like to build: local first, small surface, AI with purpose, ship real software" />
+</p>
 
-`reasoning systems` `desktop`
+<br>
 
-</td>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="assets/stack.svg" width="100%" alt="Tools I reach for: Python, TypeScript, Rust, React, Tauri, GitHub Actions, AI APIs, local storage, Tkinter" />
+</p>
 
-#### [More builds](https://github.com/purysho?tab=repositories)
-Small tools, experiments, game systems, research projects, and things built because they seemed worth existing.
+<br>
 
-`experiments` `shipping`
+<p align="center">
+  <a href="https://github.com/purysho?tab=repositories"><strong>Explore public repositories ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://purysho.github.io"><strong>purysho.github.io ↗</strong></a>
+</p>
 
-</td>
-</tr>
-</table>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-### `> toolkit`
-
-```text
-LANGUAGES       Python · TypeScript · JavaScript · Rust
-INTERFACES      React · Tauri · Tkinter · CLI
-SYSTEMS         Git · GitHub Actions · local storage · custom tooling
-AI              model APIs · prompt systems · evaluation · agent workflows
-```
-
-### `> operating_principles`
-
-```text
-01  LOCAL FIRST
-02  DETERMINISTIC WHERE POSSIBLE
-03  AI WHERE USEFUL
-04  KEEP THE SURFACE AREA SMALL
-05  BUILD THE TOOL YOU ACTUALLY WANT TO USE
-06  SHIP SOMETHING REAL
-```
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-<div align="center">
-  <sub>More at <a href="https://purysho.github.io">purysho.github.io</a> · Repositories below ↓</sub>
-</div>
+<p align="center"><sub>Build something useful. Keep the surface small. Ship it.</sub></p>
