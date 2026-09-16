@@ -1,16 +1,17 @@
-<svg width="390" height="250" viewBox="0 0 390 250" fill="none" xmlns="http://www.w3.org/2000/svg">
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="390" y2="250"><stop stop-color="#0B1216"/><stop offset="1" stop-color="#06090B"/></linearGradient>
-  <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(330 36) rotate(142) scale(180 160)"><stop stop-color="#22D3EE" stop-opacity="0.4"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
-</defs>
-<rect width="390" height="250" rx="28" fill="url(#bg)"/>
-<rect width="390" height="250" rx="28" fill="url(#glow)"/>
-<rect x="1" y="1" width="388" height="248" rx="27" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="2"/>
-<text x="26" y="36" fill="#8F93A3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="700" letter-spacing="1.7">02 · PRIVATE SEARCH</text>
-<g transform="translate(297 24)"><rect width="66" height="66" rx="20" fill="#22D3EE" fill-opacity="0.11" stroke="#67E8F9" stroke-opacity="0.28"/><circle cx="33" cy="33" r="17" stroke="#A5F3FC" stroke-width="3"/><path d="M33 15L38 30L33 51L28 30L33 15Z" fill="#67E8F9"/><path d="M33 33L50 28" stroke="#A5F3FC" stroke-width="3" stroke-linecap="round"/></g>
-<text x="26" y="102" fill="#FFFFFF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="34" font-weight="760" letter-spacing="-1.4">Needle</text>
-<text x="26" y="136" fill="#B8BBC6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="15" font-weight="500">Fast local indexing and file search</text>
-<text x="26" y="158" fill="#B8BBC6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="15" font-weight="500">without a hosted search service.</text>
-<g transform="translate(26 190)"><rect width="92" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.055"/><text x="46" y="20" text-anchor="middle" fill="#D7D8DF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" font-weight="700">LOCAL-FIRST</text><rect x="102" width="84" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.055"/><text x="144" y="20" text-anchor="middle" fill="#D7D8DF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" font-weight="700">PRIVACY</text></g>
-<text x="337" y="220" fill="#67E8F9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="20">↗</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-labelledby="title desc">
+<title id="title">Needle</title><desc id="desc">Private local search across your own files.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111610"/><stop offset="1" stop-color="#080B09"/></linearGradient><linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4A554B"/><stop offset="1" stop-color="#151A16"/></linearGradient></defs>
+<rect width="400" height="300" rx="24" fill="url(#bg)" stroke="#222A22"/>
+<text x="30" y="42" fill="#C6F36D" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2.8">LOCAL SEARCH</text>
+<g transform="translate(302 86)">
+  <circle r="44" fill="url(#metal)" stroke="#667063"/>
+  <circle r="24" fill="#0C110D" stroke="#2F3830"/>
+  <path d="M-7,15 L10,-17 L4,8 L-12,28 Z" fill="#C6F36D"/>
+  <circle cx="4" cy="-6" r="5" fill="#EAFDB9"/>
+</g>
+<text x="30" y="119" fill="#F2EEE5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="650">Needle</text>
+<text x="30" y="159" fill="#98A1AD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Find what is already on your machine.</text>
+<text x="30" y="205" fill="#6F7884" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Index · search · browse · open</text>
+<rect x="30" y="246" width="126" height="2" rx="1" fill="#2C342D"/><rect x="168" y="246" width="56" height="2" rx="1" fill="#C6F36D"/><rect x="236" y="246" width="100" height="2" rx="1" fill="#1F251F"/>
+<text x="339" y="253" fill="#C6F36D" font-family="Arial,sans-serif" font-size="22">↗</text>
 </svg>

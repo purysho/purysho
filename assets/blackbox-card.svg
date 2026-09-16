@@ -1,16 +1,20 @@
-<svg width="390" height="250" viewBox="0 0 390 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-labelledby="title desc">
+<title id="title">BLACKBOX</title><desc id="desc">Repository intelligence and local codebase forensics.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="390" y2="250"><stop stop-color="#111018"/><stop offset="1" stop-color="#07070B"/></linearGradient>
-  <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(330 36) rotate(142) scale(180 160)"><stop stop-color="#8B5CF6" stop-opacity="0.42"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10151B"/><stop offset="1" stop-color="#080B0F"/></linearGradient>
+<linearGradient id="cube" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#33404A"/><stop offset="1" stop-color="#0D1217"/></linearGradient>
 </defs>
-<rect width="390" height="250" rx="28" fill="url(#bg)"/>
-<rect width="390" height="250" rx="28" fill="url(#glow)"/>
-<rect x="1" y="1" width="388" height="248" rx="27" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="2"/>
-<text x="26" y="36" fill="#8F93A3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="700" letter-spacing="1.7">01 · REPOSITORY INTELLIGENCE</text>
-<g transform="translate(297 24)"><rect width="66" height="66" rx="20" fill="#8B5CF6" fill-opacity="0.12" stroke="#A78BFA" stroke-opacity="0.3"/><path d="M18 33L33 18L48 33L33 48L18 33Z" stroke="#C4B5FD" stroke-width="3"/><path d="M33 18V48M18 33H48" stroke="#8B5CF6" stroke-width="2" stroke-opacity="0.8"/></g>
-<text x="26" y="102" fill="#FFFFFF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="34" font-weight="760" letter-spacing="-1.4">BLACKBOX</text>
-<text x="26" y="136" fill="#B8BBC6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="15" font-weight="500">Repository forensics for structure,</text>
-<text x="26" y="158" fill="#B8BBC6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="15" font-weight="500">hotspots, dependencies, and risk signals.</text>
-<g transform="translate(26 190)"><rect width="92" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.055"/><text x="46" y="20" text-anchor="middle" fill="#D7D8DF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" font-weight="700">LOCAL-FIRST</text><rect x="102" width="82" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.055"/><text x="143" y="20" text-anchor="middle" fill="#D7D8DF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" font-weight="700">PYTHON</text></g>
-<text x="337" y="220" fill="#C4B5FD" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="20">↗</text>
+<rect width="400" height="300" rx="24" fill="url(#bg)" stroke="#202832"/>
+<text x="30" y="42" fill="#7DE9FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2.8">REPOSITORY INTELLIGENCE</text>
+<g transform="translate(298 83)">
+  <path d="M-48,-25 L0,-50 L48,-25 L0,0 Z" fill="#26313B" stroke="#596572"/>
+  <path d="M-48,-25 L0,0 L0,54 L-48,27 Z" fill="#0B1015" stroke="#3C4752"/>
+  <path d="M48,-25 L0,0 L0,54 L48,27 Z" fill="url(#cube)" stroke="#3C4752"/>
+  <path d="M-19,-10 L0,-20 L19,-10 L0,0 Z" fill="#7DE9FF" opacity="0.9"/>
+</g>
+<text x="30" y="119" fill="#F2EEE5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="650">BLACKBOX</text>
+<text x="30" y="159" fill="#98A1AD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">See what a codebase is really made of.</text>
+<text x="30" y="205" fill="#6F7884" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Structure · hotspots · risks · dependencies</text>
+<rect x="30" y="246" width="182" height="2" rx="1" fill="#313944"/><rect x="224" y="246" width="34" height="2" rx="1" fill="#7DE9FF"/><rect x="270" y="246" width="66" height="2" rx="1" fill="#20262E"/>
+<text x="339" y="253" fill="#7DE9FF" font-family="Arial,sans-serif" font-size="22">↗</text>
 </svg>

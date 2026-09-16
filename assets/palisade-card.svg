@@ -1,16 +1,18 @@
-<svg width="390" height="250" viewBox="0 0 390 250" fill="none" xmlns="http://www.w3.org/2000/svg">
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="390" y2="250"><stop stop-color="#161109"/><stop offset="1" stop-color="#090806"/></linearGradient>
-  <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(330 36) rotate(142) scale(180 160)"><stop stop-color="#F59E0B" stop-opacity="0.38"/><stop offset="1" stop-color="#F59E0B" stop-opacity="0"/></radialGradient>
-</defs>
-<rect width="390" height="250" rx="28" fill="url(#bg)"/>
-<rect width="390" height="250" rx="28" fill="url(#glow)"/>
-<rect x="1" y="1" width="388" height="248" rx="27" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="2"/>
-<text x="26" y="36" fill="#8F93A3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="700" letter-spacing="1.7">03 · DATABASE INTERNALS</text>
-<g transform="translate(297 24)"><rect width="66" height="66" rx="20" fill="#F59E0B" fill-opacity="0.11" stroke="#FBBF24" stroke-opacity="0.28"/><ellipse cx="33" cy="23" rx="17" ry="7" fill="#FBBF24" fill-opacity="0.16" stroke="#FCD34D" stroke-width="2.5"/><path d="M16 23V43C16 48 24 52 33 52C42 52 50 48 50 43V23" stroke="#FCD34D" stroke-width="2.5"/><path d="M16 33C16 38 24 42 33 42C42 42 50 38 50 33" stroke="#FCD34D" stroke-width="2.5"/></g>
-<text x="26" y="102" fill="#FFFFFF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="34" font-weight="760" letter-spacing="-1.4">PalisadeDB</text>
-<text x="26" y="136" fill="#B8BBC6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="15" font-weight="500">A custom local database engine with</text>
-<text x="26" y="158" fill="#B8BBC6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="15" font-weight="500">pager, B+ tree, SQL, and recovery.</text>
-<g transform="translate(26 190)"><rect width="92" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.055"/><text x="46" y="20" text-anchor="middle" fill="#D7D8DF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" font-weight="700">FROM SCRATCH</text><rect x="102" width="84" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.055"/><text x="144" y="20" text-anchor="middle" fill="#D7D8DF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" font-weight="700">PYTHON</text></g>
-<text x="337" y="220" fill="#FCD34D" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="20">↗</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-labelledby="title desc">
+<title id="title">PalisadeDB</title><desc id="desc">A custom local database engine built from first principles.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17130D"/><stop offset="1" stop-color="#0B0907"/></linearGradient><radialGradient id="gold" cx="35%" cy="25%" r="75%"><stop stop-color="#FFE6A0"/><stop offset="0.5" stop-color="#D9A84E"/><stop offset="1" stop-color="#875917"/></radialGradient></defs>
+<rect width="400" height="300" rx="24" fill="url(#bg)" stroke="#2A2419"/>
+<text x="30" y="42" fill="#D9A84E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2.8">DATABASE ENGINE</text>
+<g transform="translate(300 88)">
+  <rect x="-41" y="-36" width="82" height="73" rx="9" fill="#13110D" stroke="#66512A"/>
+  <path d="M-30,-36 V-52 H-15 V-36 H-6 V-56 H9 V-36 H18 V-52 H33 V-36" fill="#17130D" stroke="#866A34" stroke-width="6" stroke-linejoin="round"/>
+  <ellipse cx="0" cy="14" rx="28" ry="9" fill="url(#gold)" opacity="0.95"/>
+  <ellipse cx="0" cy="5" rx="28" ry="9" fill="#A87528" stroke="#E4BD63"/>
+  <rect x="-28" y="5" width="56" height="9" fill="#B7832E"/>
+</g>
+<text x="30" y="119" fill="#F2EEE5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="650">PalisadeDB</text>
+<text x="30" y="159" fill="#A69F93" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">A database built from the storage layer upward.</text>
+<text x="30" y="205" fill="#746C60" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Pager · B+ tree · SQL · recovery</text>
+<rect x="30" y="246" width="156" height="2" rx="1" fill="#362E21"/><rect x="198" y="246" width="42" height="2" rx="1" fill="#D9A84E"/><rect x="252" y="246" width="84" height="2" rx="1" fill="#241F17"/>
+<text x="339" y="253" fill="#D9A84E" font-family="Arial,sans-serif" font-size="22">↗</text>
 </svg>

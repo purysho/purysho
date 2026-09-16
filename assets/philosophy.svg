@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+  <title id="title">Private by default. Public by choice.</title>
+  <desc id="desc">Two dark glass panels explain the Purysho approach to private experiments and public releases.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090B0F"/>
+      <stop offset="1" stop-color="#10141A"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#181D25"/>
+      <stop offset="1" stop-color="#0E1218"/>
+    </linearGradient>
+    <radialGradient id="gold" cx="35%" cy="30%" r="70%">
+      <stop offset="0" stop-color="#FFE6A1"/>
+      <stop offset="0.45" stop-color="#D9A84E"/>
+      <stop offset="1" stop-color="#8F5E1A"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="270" rx="28" fill="url(#bg)"/>
+  <rect x="32" y="32" width="548" height="206" rx="22" fill="url(#panel)" stroke="#242B35"/>
+  <rect x="620" y="32" width="548" height="206" rx="22" fill="url(#panel)" stroke="#34303A"/>
+
+  <text x="72" y="85" fill="#7E8794" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3.2">PRIVATE</text>
+  <text x="72" y="132" fill="#F1EDE4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="620">The workshop stays quiet.</text>
+  <text x="72" y="171" fill="#929AA6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Most experiments stay private while they are being shaped,</text>
+  <text x="72" y="197" fill="#929AA6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">tested and reduced to something worth keeping.</text>
+
+  <text x="660" y="85" fill="#D9A84E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3.2">PUBLIC</text>
+  <text x="660" y="132" fill="#F1EDE4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="620">Release is deliberate.</text>
+  <text x="660" y="171" fill="#A9A195" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">What appears here is work intentionally released for people</text>
+  <text x="660" y="197" fill="#A9A195" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">to inspect, use, learn from or build on.</text>
+
+  <g transform="translate(600 135)">
+    <circle r="21" fill="url(#gold)" stroke="#F4D787" stroke-opacity="0.55"/>
+    <path d="M-8,-5 L1,-12 L11,-4 L8,8 L-2,13 L-12,4 Z" fill="#7F5115" opacity="0.35"/>
+  </g>
+  <rect x="579" y="134" width="7" height="2" rx="1" fill="#444B55"/>
+  <rect x="614" y="134" width="7" height="2" rx="1" fill="#D9A84E" opacity="0.7"/>
+</svg>
