@@ -23,7 +23,7 @@
 
 <p align="center">
   <sub>SELECTED WORK</sub><br>
-  <strong>Public releases</strong>
+  <strong>Selected projects</strong>
 </p>
 
 <p align="center"><sub>UNDERSTAND</sub></p>
