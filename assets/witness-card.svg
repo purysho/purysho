@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-labelledby="title desc">
+<title id="title">Witness</title><desc id="desc">Evidence-first RAG workbench for inspectable answers, provenance, contradictions and evaluation.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#12121B"/><stop offset="1" stop-color="#08090D"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#39364B"/><stop offset="1" stop-color="#11131A"/></linearGradient>
+</defs>
+<rect width="400" height="300" rx="24" fill="url(#bg)" stroke="#272738"/>
+<text x="30" y="42" fill="#B39CFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2.8">EVIDENCE WORKBENCH</text>
+<g transform="translate(302 82)">
+  <circle r="54" fill="none" stroke="#2E2B3C" stroke-width="8"/>
+  <circle r="34" fill="none" stroke="#B39CFF" stroke-opacity=".62" stroke-width="7"/>
+  <circle r="13" fill="#D9A84E" stroke="#F3D993" stroke-width="3"/>
+  <path d="M-54 10 C-23 10 -28 -35 2 -35 S28 10 54 10" fill="none" stroke="#7AD9FF" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="-34" cy="10" r="5" fill="#7AD9FF"/><circle cx="2" cy="-35" r="5" fill="#B39CFF"/><circle cx="34" cy="10" r="5" fill="#D9A84E"/>
+</g>
+<text x="30" y="119" fill="#F2EEE5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="650">Witness</text>
+<text x="30" y="159" fill="#A6A0B5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Inspect the evidence behind every answer.</text>
+<text x="30" y="205" fill="#746F82" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Retrieval · provenance · contradictions · evaluation</text>
+<rect x="30" y="246" width="160" height="2" rx="1" fill="#343142"/><rect x="202" y="246" width="44" height="2" rx="1" fill="#B39CFF"/><rect x="258" y="246" width="78" height="2" rx="1" fill="#24232D"/>
+<text x="339" y="253" fill="#B39CFF" font-family="Arial,sans-serif" font-size="22">↗</text>
+</svg>
