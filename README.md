@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Purysho — Private experiments. Public releases." />
+  <img src="assets/hero.svg" width="100%" alt="Purysho — Ideas into useful things." />
 </p>
 
 <p align="center">
-  <img src="assets/philosophy.svg" width="100%" alt="Private by default. Public by choice." />
+  <img src="assets/philosophy.svg" width="100%" alt="Built with intention. Designed for clarity." />
 </p>
 
 <br>
@@ -29,9 +29,10 @@
 <p align="center"><sub>UNDERSTAND</sub></p>
 <table>
 <tr>
-<td width="33.33%" valign="top"><a href="https://github.com/purysho/BLACKBOX"><img src="assets/blackbox-card.svg" width="100%" alt="BLACKBOX — repository intelligence and local codebase forensics" /></a></td>
-<td width="33.33%" valign="top"><a href="https://github.com/purysho/Needle"><img src="assets/needle-card.svg" width="100%" alt="Needle — private local search across your own files" /></a></td>
-<td width="33.33%" valign="top"><a href="https://github.com/purysho/PalisadeDB"><img src="assets/palisade-card.svg" width="100%" alt="PalisadeDB — a custom local database engine built from first principles" /></a></td>
+<td width="25%" valign="top"><a href="https://github.com/purysho/BLACKBOX"><img src="assets/blackbox-card.svg" width="100%" alt="BLACKBOX — repository intelligence and local codebase forensics" /></a></td>
+<td width="25%" valign="top"><a href="https://github.com/purysho/Needle"><img src="assets/needle-card.svg" width="100%" alt="Needle — private local search across your own files" /></a></td>
+<td width="25%" valign="top"><a href="https://github.com/purysho/PalisadeDB"><img src="assets/palisade-card.svg" width="100%" alt="PalisadeDB — a custom local database engine built from first principles" /></a></td>
+<td width="25%" valign="top"><a href="https://github.com/purysho/Witness"><img src="assets/witness-card.svg" width="100%" alt="Witness — evidence-first RAG workbench for inspectable answers and provenance" /></a></td>
 </tr>
 </table>
 <p align="center"><sub><a href="https://purysho.github.io/understand/">Explore Understand ↗</a></sub></p>
