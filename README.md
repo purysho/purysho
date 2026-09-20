@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <sub>FLAGSHIP · V1.0.0 RELEASED</sub><br>
+  <sub>FLAGSHIP · V1.0.1 RELEASED</sub><br>
   <strong>Switchyard</strong>
 </p>
 
@@ -17,7 +17,7 @@
   <a href="https://github.com/purysho/Switchyard"><img src="assets/switchyard-feature.svg" width="100%" alt="Switchyard — local developer workspace command center" /></a>
 </p>
 
-<p align="center"><sub><a href="https://github.com/purysho/Switchyard">Open Switchyard ↗</a> &nbsp;·&nbsp; <a href="https://github.com/purysho/Switchyard/releases/tag/v1.0.0">Download v1.0.0 ↓</a></sub></p>
+<p align="center"><sub><a href="https://github.com/purysho/Switchyard">Open Switchyard ↗</a> &nbsp;·&nbsp; <a href="https://github.com/purysho/Switchyard/releases/tag/v1.0.1">Download v1.0.1 ↓</a></sub></p>
 
 <br>
 
