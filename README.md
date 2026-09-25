@@ -19,27 +19,6 @@
 
 <p align="center"><sub><a href="https://github.com/purysho/Switchyard">Open Switchyard ↗</a> &nbsp;·&nbsp; <a href="https://github.com/purysho/Switchyard/releases/tag/v1.0.1">Download v1.0.1 ↓</a></sub></p>
 
-<br>
-
-<p align="center">
-  <sub>FEATURED PRODUCT · EDUCATION · V0.1.1 RELEASED</sub><br>
-  <strong>EduBoard</strong>
-</p>
-
-<p align="center">
-  <a href="https://purysho.github.io/eduboard/"><img src="https://raw.githubusercontent.com/purysho/EduBoard/main/docs/screenshots/dashboard.png" width="100%" alt="EduBoard — local-first offline teacher dashboard" /></a>
-</p>
-
-<p align="center"><em>Teaching software that works where teaching actually happens.</em></p>
-
-<p align="center">
-  <sub>OFFLINE FIRST · GRADEBOOK · ATTENDANCE · LESSON PLANNING · RUBRICS · REPORTS · PORTABLE</sub>
-</p>
-
-<p align="center"><sub><a href="https://purysho.github.io/eduboard/">Explore EduBoard ↗</a> &nbsp;·&nbsp; <a href="https://github.com/purysho/EduBoard">Open on GitHub ↗</a> &nbsp;·&nbsp; <a href="https://github.com/purysho/EduBoard/releases/latest">Download latest ↓</a></sub></p>
-
-<br>
-
 <p align="center">
   <sub>SELECTED WORK</sub><br>
   <strong>Selected projects</strong>
