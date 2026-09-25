@@ -20,6 +20,17 @@
 <p align="center"><sub><a href="https://github.com/purysho/Switchyard">Open Switchyard ↗</a> &nbsp;·&nbsp; <a href="https://github.com/purysho/Switchyard/releases/tag/v1.0.1">Download v1.0.1 ↓</a></sub></p>
 
 <p align="center">
+  <sub>FEATURED PRODUCT · V0.20.0</sub><br>
+  <strong>QuantOS</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/purysho/QuantOS"><img src="assets/quantos-feature.svg" width="100%" alt="QuantOS — free, open-source, point-in-time investment research that never trades" /></a>
+</p>
+
+<p align="center"><sub><a href="https://github.com/purysho/QuantOS">Open QuantOS ↗</a> &nbsp;·&nbsp; <a href="https://github.com/purysho/QuantOS/releases/latest">Download latest ↓</a></sub></p>
+
+<p align="center">
   <sub>SELECTED WORK</sub><br>
   <strong>Selected projects</strong>
 </p>
