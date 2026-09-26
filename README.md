@@ -43,7 +43,7 @@
 </td>
 <td width="33.33%" valign="top">
   <a href="https://github.com/purysho/Latch"><img src="assets/latch-card.svg" width="100%" alt="Latch — local-first security broker for AI agents" /></a>
-  <p align="center"><sub><a href="https://github.com/purysho/Latch">Open Latch ↗</a></sub></p>
+  <p align="center"><sub><a href="https://github.com/purysho/Latch">Open Latch ↗</a> &nbsp;·&nbsp; <a href="https://github.com/purysho/Latch/releases/tag/v0.1.0">Download v0.1.0 ↓</a></sub></p>
 </td>
 <td width="33.33%" valign="top">
   <a href="https://github.com/purysho/salesforce-writing-coach"><img src="assets/salesforce-writing-coach-card.svg" width="100%" alt="Salesforce Writing Coach — structure-first review for customer-facing email" /></a>
