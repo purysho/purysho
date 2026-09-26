@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img" aria-labelledby="title desc">
+<title id="title">Salesforce Writing Coach</title><desc id="desc">Salesforce-native structural review for customer-facing email.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10151C"/><stop offset="1" stop-color="#08090D"/></linearGradient>
+</defs>
+<rect width="400" height="300" rx="24" fill="url(#bg)" stroke="#262C35"/>
+<text x="30" y="42" fill="#F2D78E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2.8">SALESFORCE WRITING</text>
+<g transform="translate(279 60)">
+  <rect width="103" height="118" rx="15" fill="#111923" stroke="#38506B"/>
+  <rect x="18" y="22" width="66" height="6" rx="3" fill="#7AD9FF" opacity=".85"/>
+  <rect x="18" y="41" width="48" height="5" rx="2.5" fill="#667487"/>
+  <rect x="18" y="55" width="60" height="5" rx="2.5" fill="#667487"/>
+  <rect x="18" y="69" width="39" height="5" rx="2.5" fill="#667487"/>
+  <circle cx="79" cy="90" r="16" fill="#182414" stroke="#80F1A7"/>
+  <path d="M71 90 l6 6 11-14" fill="none" stroke="#80F1A7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="30" y="112" fill="#F2EEE5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="650">Writing Coach</text>
+<text x="30" y="153" fill="#A8ADB4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Structure before style.</text>
+<text x="30" y="199" fill="#777F89" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Intent-aware review · Salesforce-native · human authored</text>
+<rect x="30" y="246" width="146" height="2" rx="1" fill="#323943"/><rect x="188" y="246" width="56" height="2" rx="1" fill="#F2D78E"/><rect x="256" y="246" width="80" height="2" rx="1" fill="#7AD9FF" opacity=".55"/>
+<text x="339" y="253" fill="#F2D78E" font-family="Arial,sans-serif" font-size="22">↗</text>
+</svg>
