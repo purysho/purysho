@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <sub>FLAGSHIP · V1.0.1 RELEASED</sub><br>
+  <sub>FLAGSHIP · V1.1.0 · WINDOWS, MACOS, LINUX</sub><br>
   <strong>Switchyard</strong>
 </p>
 
@@ -17,7 +17,7 @@
   <a href="https://github.com/purysho/Switchyard"><img src="assets/switchyard-feature.svg" width="100%" alt="Switchyard — local developer workspace command center" /></a>
 </p>
 
-<p align="center"><sub><a href="https://github.com/purysho/Switchyard">Open Switchyard ↗</a> &nbsp;·&nbsp; <a href="https://github.com/purysho/Switchyard/releases/tag/v1.0.1">Download v1.0.1 ↓</a></sub></p>
+<p align="center"><sub><a href="https://github.com/purysho/Switchyard">Open Switchyard ↗</a> &nbsp;·&nbsp; <a href="https://github.com/purysho/Switchyard/releases/tag/v1.1.0">Download v1.1.0 ↓</a></sub></p>
 
 <p align="center">
   <sub>FEATURED PRODUCT · V0.20.0</sub><br>
@@ -37,17 +37,23 @@
 
 <table>
 <tr>
-<td width="33.33%" valign="top">
+<td width="50%" valign="top">
   <a href="https://github.com/purysho/Cascade"><img src="assets/cascade-card.svg" width="100%" alt="Cascade — deterministic city crisis strategy game" /></a>
   <p align="center"><sub><a href="https://purysho.github.io/Cascade/">Play Cascade ↗</a></sub></p>
 </td>
-<td width="33.33%" valign="top">
+<td width="50%" valign="top">
   <a href="https://github.com/purysho/Latch"><img src="assets/latch-card.svg" width="100%" alt="Latch — local-first security broker for AI agents" /></a>
   <p align="center"><sub><a href="https://github.com/purysho/Latch">Open Latch ↗</a> &nbsp;·&nbsp; <a href="https://github.com/purysho/Latch/releases/tag/v0.1.0">Download v0.1.0 ↓</a></sub></p>
 </td>
-<td width="33.33%" valign="top">
-  <a href="https://github.com/purysho/salesforce-writing-coach"><img src="assets/salesforce-writing-coach-card.svg" width="100%" alt="Salesforce Writing Coach — structure-first review for customer-facing email" /></a>
-  <p align="center"><sub><a href="https://github.com/purysho/salesforce-writing-coach">Open Writing Coach ↗</a></sub></p>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/purysho/EduBoard"><img src="assets/eduboard-card.svg" width="100%" alt="EduBoard — local-first teacher operating system for gradebook, rubrics, attendance and reports" /></a>
+  <p align="center"><sub><a href="https://github.com/purysho/EduBoard">Open EduBoard ↗</a> &nbsp;·&nbsp; <a href="https://github.com/purysho/EduBoard/releases/latest">Download latest ↓</a></sub></p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/purysho/WritingCoach"><img src="assets/salesforce-writing-coach-card.svg" width="100%" alt="Salesforce Writing Coach — structure-first review for customer-facing email" /></a>
+  <p align="center"><sub><a href="https://github.com/purysho/WritingCoach">Open Writing Coach ↗</a></sub></p>
 </td>
 </tr>
 </table>
