@@ -99,9 +99,9 @@
 <p align="center"><sub>WANDER</sub></p>
 <table>
 <tr>
-<td width="33.33%" valign="top"><a href="https://github.com/purysho/github-treasure-hunt"><img src="assets/treasure-hunt-card.svg" width="100%" alt="GitHub Treasure Hunt — client-side discovery for finding interesting open-source repositories" /></a></td>
-<td width="33.33%" valign="top"><a href="https://github.com/purysho/open-question-atlas"><img src="assets/open-question-atlas-card.svg" width="100%" alt="Open Question Atlas — a visual atlas for browsing unanswered questions across fields of knowledge" /></a></td>
-<td width="33.33%" valign="top"><a href="https://github.com/purysho/lodestar"><img src="assets/lodestar-card.svg" width="100%" alt="Lodestar — a reflective star map for ideas, memories and meaningful connections" /></a></td>
+<td width="33.33%" valign="top"><a href="https://github.com/purysho/TreasureHunt"><img src="assets/treasure-hunt-card.svg" width="100%" alt="GitHub Treasure Hunt — client-side discovery for finding interesting open-source repositories" /></a></td>
+<td width="33.33%" valign="top"><a href="https://github.com/purysho/OpenQuestionAtlas"><img src="assets/open-question-atlas-card.svg" width="100%" alt="Open Question Atlas — a visual atlas for browsing unanswered questions across fields of knowledge" /></a></td>
+<td width="33.33%" valign="top"><a href="https://github.com/purysho/Lodestar"><img src="assets/lodestar-card.svg" width="100%" alt="Lodestar — a reflective star map for ideas, memories and meaningful connections" /></a></td>
 </tr>
 </table>
 <p align="center"><sub><a href="https://purysho.github.io/wandering/">Explore the Wandering collection ↗</a></sub></p>
