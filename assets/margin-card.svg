@@ -19,7 +19,7 @@
 </g>
 <text x="30" y="119" fill="#F2EEE5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="650">Margin</text>
 <text x="30" y="159" fill="#A6ADBA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">AI drafts. The teacher decides.</text>
-<text x="30" y="205" fill="#747E90" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Rubric scores · inline comments · accuracy</text>
+<text x="30" y="205" fill="#747E90" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Writing · speaking · measured accuracy</text>
 <rect x="30" y="246" width="150" height="2" rx="1" fill="#3B2A26"/><rect x="192" y="246" width="54" height="2" rx="1" fill="#FF8A6B"/><rect x="258" y="246" width="78" height="2" rx="1" fill="#9FD67A" opacity=".65"/>
 <text x="339" y="253" fill="#FF8A6B" font-family="Arial,sans-serif" font-size="22">↗</text>
 </svg>

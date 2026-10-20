@@ -41,7 +41,7 @@
 </tr>
 </table>
 
-<p align="center"><sub><b>Margin</b>: AI drafts feedback on students' writing; the teacher approves every word, and every decision measures how far the AI can be trusted. <b>EduBoard</b>: a teacher's whole working week (gradebook, attendance, reports) in one offline app. <b>ClassGraph</b>: class data, seating and groups, with plans that explain themselves.</sub></p>
+<p align="center"><sub><b>Margin</b>: AI drafts feedback on students' writing and recorded speaking; the teacher approves every word, and every decision measures how far the AI can be trusted. <b>EduBoard</b>: a teacher's whole working week (gradebook, attendance, reports) in one offline app. <b>ClassGraph</b>: class data, seating and groups, with plans that explain themselves.</sub></p>
 
 <br>
 
