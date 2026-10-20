@@ -15,18 +15,33 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
   <a href="https://github.com/purysho/Margin"><img src="assets/margin-card.svg" width="100%" alt="Margin — AI-drafted, teacher-approved feedback for student writing" /></a>
+</td>
+<td width="33.33%" valign="top">
+  <a href="https://github.com/purysho/EduBoard"><img src="assets/eduboard-card.svg" width="100%" alt="EduBoard — local-first teacher operating system for gradebook, rubrics, attendance and reports" /></a>
+</td>
+<td width="33.33%" valign="top">
+  <a href="https://github.com/purysho/ClassGraph"><img src="assets/classgraph-card.svg" width="100%" alt="ClassGraph — local-first classroom analysis, seating and grouping" /></a>
+</td>
+</tr>
+<tr>
+<td width="33.33%" valign="top">
+  <a href="https://margin.purysho.workers.dev"><img src="https://raw.githubusercontent.com/purysho/Margin/main/docs/screenshots/review.png" width="100%" alt="Margin review screen: essay with colour-coded comments and AI suggestions" /></a>
   <p align="center"><sub><a href="https://margin.purysho.workers.dev">Try Margin live ↗</a> &nbsp;·&nbsp; <a href="https://github.com/purysho/Margin">Repository ↗</a></sub></p>
 </td>
-<td width="50%" valign="top">
-  <a href="https://github.com/purysho/EduBoard"><img src="assets/eduboard-card.svg" width="100%" alt="EduBoard — local-first teacher operating system for gradebook, rubrics, attendance and reports" /></a>
-  <p align="center"><sub><a href="https://github.com/purysho/EduBoard">Open EduBoard ↗</a> &nbsp;·&nbsp; <a href="https://github.com/purysho/EduBoard/releases/latest">Download latest ↓</a></sub></p>
+<td width="33.33%" valign="top">
+  <a href="https://github.com/purysho/EduBoard"><img src="https://raw.githubusercontent.com/purysho/EduBoard/main/docs/screenshots/dashboard.png" width="100%" alt="EduBoard dashboard" /></a>
+  <p align="center"><sub><a href="https://github.com/purysho/EduBoard">Open EduBoard ↗</a> &nbsp;·&nbsp; <a href="https://github.com/purysho/EduBoard/releases/latest">Download ↓</a></sub></p>
+</td>
+<td width="33.33%" valign="top">
+  <a href="https://github.com/purysho/ClassGraph"><img src="https://raw.githubusercontent.com/purysho/ClassGraph/main/docs/screenshots/classgraph-overview.png" width="100%" alt="ClassGraph class workspace overview" /></a>
+  <p align="center"><sub><a href="https://github.com/purysho/ClassGraph">Open ClassGraph ↗</a> &nbsp;·&nbsp; <a href="https://github.com/purysho/ClassGraph/releases/latest">Download ↓</a></sub></p>
 </td>
 </tr>
 </table>
 
-<p align="center"><sub><b>Margin</b>: AI drafts rubric scores and comments on students' writing; the teacher approves every word, and every decision measures how far the AI can be trusted. <b>EduBoard</b>: a teacher's whole working week (gradebook, attendance, reports) in one offline app.</sub></p>
+<p align="center"><sub><b>Margin</b>: AI drafts feedback on students' writing; the teacher approves every word, and every decision measures how far the AI can be trusted. <b>EduBoard</b>: a teacher's whole working week (gradebook, attendance, reports) in one offline app. <b>ClassGraph</b>: class data, seating and groups, with plans that explain themselves.</sub></p>
 
 <br>
 
