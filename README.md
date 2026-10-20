@@ -9,7 +9,29 @@
 <br>
 
 <p align="center">
-  <sub>FLAGSHIP · V1.1.0 · WINDOWS, MACOS, LINUX</sub><br>
+  <sub>EDUCATION · TOOLS FOR TEACHERS</sub><br>
+  <strong>Built for the classroom</strong>
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/purysho/Margin"><img src="assets/margin-card.svg" width="100%" alt="Margin — AI-drafted, teacher-approved feedback for student writing" /></a>
+  <p align="center"><sub><a href="https://margin.purysho.workers.dev">Try Margin live ↗</a> &nbsp;·&nbsp; <a href="https://github.com/purysho/Margin">Repository ↗</a></sub></p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/purysho/EduBoard"><img src="assets/eduboard-card.svg" width="100%" alt="EduBoard — local-first teacher operating system for gradebook, rubrics, attendance and reports" /></a>
+  <p align="center"><sub><a href="https://github.com/purysho/EduBoard">Open EduBoard ↗</a> &nbsp;·&nbsp; <a href="https://github.com/purysho/EduBoard/releases/latest">Download latest ↓</a></sub></p>
+</td>
+</tr>
+</table>
+
+<p align="center"><sub><b>Margin</b>: AI drafts rubric scores and comments on students' writing; the teacher approves every word, and every decision measures how far the AI can be trusted. <b>EduBoard</b>: a teacher's whole working week (gradebook, attendance, reports) in one offline app.</sub></p>
+
+<br>
+
+<p align="center">
+  <sub>DEVELOPER TOOLS · V1.1.0 · WINDOWS, MACOS, LINUX</sub><br>
   <strong>Switchyard</strong>
 </p>
 
@@ -37,21 +59,15 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
   <a href="https://github.com/purysho/Cascade"><img src="assets/cascade-card.svg" width="100%" alt="Cascade — deterministic city crisis strategy game" /></a>
   <p align="center"><sub><a href="https://purysho.github.io/Cascade/">Play Cascade ↗</a></sub></p>
 </td>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
   <a href="https://github.com/purysho/Latch"><img src="assets/latch-card.svg" width="100%" alt="Latch — local-first security broker for AI agents" /></a>
-  <p align="center"><sub><a href="https://github.com/purysho/Latch">Open Latch ↗</a> &nbsp;·&nbsp; <a href="https://github.com/purysho/Latch/releases/tag/v0.1.0">Download v0.1.0 ↓</a></sub></p>
+  <p align="center"><sub><a href="https://github.com/purysho/Latch">Open Latch ↗</a> &nbsp;·&nbsp; <a href="https://github.com/purysho/Latch/releases/tag/v0.1.0">Download ↓</a></sub></p>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/purysho/EduBoard"><img src="assets/eduboard-card.svg" width="100%" alt="EduBoard — local-first teacher operating system for gradebook, rubrics, attendance and reports" /></a>
-  <p align="center"><sub><a href="https://github.com/purysho/EduBoard">Open EduBoard ↗</a> &nbsp;·&nbsp; <a href="https://github.com/purysho/EduBoard/releases/latest">Download latest ↓</a></sub></p>
-</td>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
   <a href="https://github.com/purysho/WritingCoach"><img src="assets/salesforce-writing-coach-card.svg" width="100%" alt="Salesforce Writing Coach — structure-first review for customer-facing email" /></a>
   <p align="center"><sub><a href="https://github.com/purysho/WritingCoach">Open Writing Coach ↗</a></sub></p>
 </td>
